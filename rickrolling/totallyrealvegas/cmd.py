@@ -1,6 +1,12 @@
+
+import os
+os.system("pip install keyboard")
+os.system("pip install mouse")
+
 import time
 import keyboard
 import mouse
+
 mouse_stuck = True
 
 
